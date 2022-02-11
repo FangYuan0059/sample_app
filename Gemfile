@@ -8,7 +8,7 @@ end
 
 gem 'rails',        '5.1.6'
 gem 'bcrypt',				'3.1.12'	
-gem 'puma',         '3.9.1'
+gem 'puma',         '4.3.11'
 gem 'bootstrap-sass',   '>= 3.1'
 gem 'sass-rails', '>= 5.0'
 gem 'uglifier',     '3.2.0'
